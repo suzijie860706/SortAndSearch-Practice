@@ -1,0 +1,10 @@
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.exe.config
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.csprojAssemblyReference.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\Hello.Form1.resources
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.Properties.Resources.resources
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.csproj.GenerateResource.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.pdb

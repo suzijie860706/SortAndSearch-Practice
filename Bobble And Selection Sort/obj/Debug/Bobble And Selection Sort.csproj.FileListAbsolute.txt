@@ -1,0 +1,23 @@
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.exe.config
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\bin\Debug\BobbleSort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\Bobble And Selection Sort.csprojAssemblyReference.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\Hello.Form1.resources
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.Properties.Resources.resources
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\Bobble And Selection Sort.csproj.GenerateResource.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\Bobble And Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\BobbleSort\obj\Debug\BobbleSort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.csprojAssemblyReference.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\BobbleAndSelectionSort.Properties.Resources.resources
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.csproj.GenerateResource.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\bin\Debug\Bobble And Selection Sort.exe.config
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\bin\Debug\Bobble And Selection Sort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\bin\Debug\Bobble And Selection Sort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\bin\Debug\Sequential And Binary Search.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\bin\Debug\Sequential And Binary Search.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.csproj.CopyComplete
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\Bobble And Selection Sort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Bobble And Selection Sort\obj\Debug\BobbleAndSelectionSort.Form1.resources

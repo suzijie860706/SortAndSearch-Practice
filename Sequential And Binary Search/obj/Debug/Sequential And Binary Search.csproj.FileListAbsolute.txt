@@ -1,0 +1,13 @@
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\bin\Debug\Sequential And Binary Search.exe.config
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\bin\Debug\Sequential And Binary Search.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\bin\Debug\Sequential And Binary Search.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.csprojAssemblyReference.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential_And_Binary_Search.Properties.Resources.resources
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.csproj.GenerateResource.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential_And_Binary_Search.Form2.resources
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\bin\Debug\Bobble And Selection Sort.exe
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\bin\Debug\Bobble And Selection Sort.pdb
+C:\Users\Zijie\source\repos\Bobble Sort\Sequential And Binary Search\obj\Debug\Sequential And Binary Search.csproj.CopyComplete

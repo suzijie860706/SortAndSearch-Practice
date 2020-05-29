@@ -1,0 +1,10 @@
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.csprojAssemblyReference.cache
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.Properties.Resources.resources
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.csproj.GenerateResource.cache
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\bin\Debug\ContextMenuStrip_Practice.exe.config
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\bin\Debug\ContextMenuStrip_Practice.exe
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\bin\Debug\ContextMenuStrip_Practice.pdb
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.exe
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.pdb
+C:\Users\Zijie\source\repos\ContextMenuStrip_Practice\ContextMenuStrip_Practice\obj\Debug\ContextMenuStrip_Practice.Form1.resources
