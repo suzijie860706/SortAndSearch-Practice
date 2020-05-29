@@ -83,11 +83,6 @@ namespace BobbleAndSelectionSort
             }
             
         }
-        
-        private void Form1_Load_1(object sender, EventArgs e)
-        {
-
-        }
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -160,12 +155,6 @@ namespace BobbleAndSelectionSort
                 TempStr1 += "　" + A[i];
             }
             
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            Form formCC = new Sequential_And_Binary_Search.Form2();
-            formCC.Show();
         }
     }
 }
